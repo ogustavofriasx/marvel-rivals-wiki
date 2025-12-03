@@ -22,7 +22,7 @@ A aplicação integra-se com uma API desenvolvida especialmente para este projet
 🔗 SQL: https://delicate-nasturtium-3bb4e8.netlify.app
 
 
-🔗 Mongo: -- 
+🔗 Mongo: https://marvel-rivals-wiki-mongo.netlify.app
 
 ---
 
